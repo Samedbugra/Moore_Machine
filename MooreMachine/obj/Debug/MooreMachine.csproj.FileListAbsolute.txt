@@ -1,0 +1,33 @@
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\MooreMachine\MooreMachine\bin\Debug\MooreMachine.exe.config
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\MooreMachine\MooreMachine\bin\Debug\MooreMachine.exe
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\MooreMachine\MooreMachine\bin\Debug\MooreMachine.pdb
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\MooreMachine\MooreMachine\obj\Debug\MooreMachine.csprojResolveAssemblyReference.cache
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\MooreMachine\MooreMachine\obj\Debug\MooreMachine.Properties.Resources.resources
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\MooreMachine\MooreMachine\obj\Debug\MooreMachine.csproj.GenerateResource.Cache
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\MooreMachine\MooreMachine\obj\Debug\MooreMachine.csproj.CoreCompileInputs.cache
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\MooreMachine\MooreMachine\obj\Debug\MooreMachine.exe
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\MooreMachine\MooreMachine\obj\Debug\MooreMachine.pdb
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\MooreMachine\MooreMachine\obj\Debug\MooreMachine.Table.resources
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\MooreMachine\MooreMachine\obj\Debug\MooreMachine.Form1.resources
+C:\Users\Samed Buğra KARATAŞ\source\repos\151220052_MahmutAliipek\MooreMachine\MooreMachine\obj\Debug\MooreMachine.csprojAssemblyReference.cache
+C:\Users\Samed Buğra KARATAŞ\source\repos\151220052_MahmutAliipek\MooreMachine\MooreMachine\obj\Debug\MooreMachine.Form1.resources
+C:\Users\Samed Buğra KARATAŞ\source\repos\151220052_MahmutAliipek\MooreMachine\MooreMachine\obj\Debug\MooreMachine.Properties.Resources.resources
+C:\Users\Samed Buğra KARATAŞ\source\repos\151220052_MahmutAliipek\MooreMachine\MooreMachine\obj\Debug\MooreMachine.Table.resources
+C:\Users\Samed Buğra KARATAŞ\source\repos\151220052_MahmutAliipek\MooreMachine\MooreMachine\obj\Debug\MooreMachine.csproj.GenerateResource.cache
+C:\Users\Samed Buğra KARATAŞ\source\repos\151220052_MahmutAliipek\MooreMachine\MooreMachine\obj\Debug\MooreMachine.csproj.CoreCompileInputs.cache
+C:\Users\Samed Buğra KARATAŞ\source\repos\151220052_MahmutAliipek\MooreMachine\MooreMachine\bin\Debug\181213024_SamedBugra_KARATAS_Moore_Makinası.exe.config
+C:\Users\Samed Buğra KARATAŞ\source\repos\151220052_MahmutAliipek\MooreMachine\MooreMachine\bin\Debug\181213024_SamedBugra_KARATAS_Moore_Makinası.exe
+C:\Users\Samed Buğra KARATAŞ\source\repos\151220052_MahmutAliipek\MooreMachine\MooreMachine\bin\Debug\181213024_SamedBugra_KARATAS_Moore_Makinası.pdb
+C:\Users\Samed Buğra KARATAŞ\source\repos\151220052_MahmutAliipek\MooreMachine\MooreMachine\obj\Debug\181213024_SamedBugra_KARATAS_Moore_Makinası.exe
+C:\Users\Samed Buğra KARATAŞ\source\repos\151220052_MahmutAliipek\MooreMachine\MooreMachine\obj\Debug\181213024_SamedBugra_KARATAS_Moore_Makinası.pdb
+C:\Users\bugra\source\repos\181213024_SamedBugra_Karatas_MooreMachine\MooreMachine\bin\Debug\181213024_SamedBugra_KARATAS_Moore_Makinası.exe.config
+C:\Users\bugra\source\repos\181213024_SamedBugra_Karatas_MooreMachine\MooreMachine\bin\Debug\181213024_SamedBugra_KARATAS_Moore_Makinası.exe
+C:\Users\bugra\source\repos\181213024_SamedBugra_Karatas_MooreMachine\MooreMachine\bin\Debug\181213024_SamedBugra_KARATAS_Moore_Makinası.pdb
+C:\Users\bugra\source\repos\181213024_SamedBugra_Karatas_MooreMachine\MooreMachine\obj\Debug\MooreMachine.csproj.AssemblyReference.cache
+C:\Users\bugra\source\repos\181213024_SamedBugra_Karatas_MooreMachine\MooreMachine\obj\Debug\MooreMachine.Form1.resources
+C:\Users\bugra\source\repos\181213024_SamedBugra_Karatas_MooreMachine\MooreMachine\obj\Debug\MooreMachine.Properties.Resources.resources
+C:\Users\bugra\source\repos\181213024_SamedBugra_Karatas_MooreMachine\MooreMachine\obj\Debug\MooreMachine.Table.resources
+C:\Users\bugra\source\repos\181213024_SamedBugra_Karatas_MooreMachine\MooreMachine\obj\Debug\MooreMachine.csproj.GenerateResource.cache
+C:\Users\bugra\source\repos\181213024_SamedBugra_Karatas_MooreMachine\MooreMachine\obj\Debug\MooreMachine.csproj.CoreCompileInputs.cache
+C:\Users\bugra\source\repos\181213024_SamedBugra_Karatas_MooreMachine\MooreMachine\obj\Debug\181213024_SamedBugra_KARATAS_Moore_Makinası.exe
+C:\Users\bugra\source\repos\181213024_SamedBugra_Karatas_MooreMachine\MooreMachine\obj\Debug\181213024_SamedBugra_KARATAS_Moore_Makinası.pdb
